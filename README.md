@@ -1,1 +1,2 @@
-Treasure Hunter
+# treasure-hunter
+Treasure Hunter is an app programmed by Aryana Gooranshorakchali and Airin Aboutalebi as their final project for their seminar "App Development" in practical experience in digital media.
