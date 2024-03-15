@@ -177,7 +177,7 @@ def main_app():
 
 # Function to fetch and display hidden gems
 def show_treasures():
-    api_key = st.secrets ["YELP_API_KEY"]
+    api_key = "bE0a_pzegp0eu7eBqF0N1hoXSjxtjBh7O9fTRFPMYM0l6ZPD76GYDDgeX4WG6S-qLgGDfwj67LpGNGW-uoEtZxiCuMJEjXKwcI9DZoGE3e84u4vrpQufaGg-5_3yZXYx"
     st.title("Treasure Hunter - Hidden Gems")
     country = st.text_input("Enter the country to find hidden gems:")
 
